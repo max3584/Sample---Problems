@@ -1,4 +1,4 @@
-package problem;
+package IPCalcuratorProblems;
 
 public class Main {
     public static void main(String[] args) {
